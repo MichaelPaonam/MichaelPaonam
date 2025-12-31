@@ -15,7 +15,9 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
 ### By order of Proficiency and Experience
 <p align="center">
 
-  <p><samp>Backend</samp></p>
+  <samp>Backend</samp>
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff">
@@ -31,7 +33,9 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   <br /><br />
 
-  <p><samp>DevOps</samp></p>
+  <samp>Backend</samp>
+  <br>
+  <br>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&logo=aws&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E44C30?&logo=git&logoColor=white">
@@ -47,7 +51,9 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white">
   <br /><br />
 
-  <p><samp>Frontend</samp></p>
+  <samp>Backend</samp>
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
@@ -56,7 +62,9 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
   <br /><br />
 
-  <p><samp>[Hobby] - Game Development</samp></p>
+  <samp>Backend</samp>
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine">
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
 </p>
