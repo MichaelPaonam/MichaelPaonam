@@ -25,15 +25,17 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff">
   <img src="https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff">
   <br /><br />
 
-  <samp>Backend</samp>
+  <samp>DevOps</samp>
   <br>
   <br>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&logo=aws&logoColor=white">
@@ -48,10 +50,9 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white">
   <br /><br />
 
-  <samp>Backend</samp>
+  <samp>Frontend</samp>
   <br>
   <br>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -60,9 +61,10 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff">
   <br /><br />
 
-  <samp>Backend</samp>
+  <samp>[Hobby] - Game Development</samp>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine">
