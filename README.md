@@ -4,20 +4,16 @@
   <b>Michael Paonam - Software Engineering & DevOps </b>
 </h1>
 
-<p align="center" style="font-size: 1.5rem;"><samp>
-I am Michael Paonam, an IT professional with 9+ years of industry experience. I enjoy tinkering with systems and applications. I am interested in building rather than focusing on the theoretical aspects.
-</samp></p>
+### <samp>I am Michael Paonam, an IT professional with 9+ years of industry experience. I enjoy tinkering with systems and applications. I am interested in building rather than focusing on the theoretical aspects.</samp>
 
 ---
 
 ## 🔥 Tech Stack  
 
 ### By order of Proficiency and Experience
-<p align="center">
 
-  <samp style="font-size: 1.5rem;">Backend</samp>
-  <br>
-  <br>
+>### <samp>Backend</samp>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff">
@@ -33,11 +29,10 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff">
-  <br /><br />
+</p>
 
-  <samp style="font-size: 1.5rem;">DevOps</samp>
-  <br>
-  <br>
+>### <samp>DevOps</samp>
+<p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&logo=aws&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E44C30?&logo=git&logoColor=white">
@@ -50,11 +45,10 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
-  <br /><br />
+</p>
 
-  <samp style="font-size: 1.5rem;">Frontend</samp>
-  <br>
-  <br>
+>### <samp>Frontend</samp>
+<p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
@@ -63,10 +57,10 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff">
   <br /><br />
+</p>
 
-  <samp style="font-size: 1.5rem;">[Hobby] - Game Development</samp>
-  <br>
-  <br>
+>### <samp>Hobby - Game Development</samp>
+<p align="left">
   <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine">
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
 </p>
@@ -76,12 +70,12 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
 ---
 
 ## 🤝 Let's Connect
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/michael-paonam-23b807a2/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="mailto:mazdaswift@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center" style="font-size: 1.5rem;"><samp>
+<h2 align="center"><samp>
 Check out my repositories below ⬇️  
-</samp></p>
+</h3>
  
