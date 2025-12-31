@@ -4,7 +4,7 @@
   <b>Michael Paonam - Software Engineering & DevOps </b>
 </h1>
 
-<p align="center"><samp>
+<p align="center" style="font-size: 1.5rem;"><samp>
 I am Michael Paonam, an IT professional with 9+ years of industry experience. I enjoy tinkering with systems and applications. I am interested in building rather than focusing on the theoretical aspects.
 </samp></p>
 
@@ -15,7 +15,7 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
 ### By order of Proficiency and Experience
 <p align="center">
 
-  <samp>Backend</samp>
+  <samp style="font-size: 1.5rem;">Backend</samp>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
@@ -35,7 +35,7 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff">
   <br /><br />
 
-  <samp>DevOps</samp>
+  <samp style="font-size: 1.5rem;">DevOps</samp>
   <br>
   <br>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&logo=aws&logoColor=white">
@@ -52,7 +52,7 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
   <br /><br />
 
-  <samp>Frontend</samp>
+  <samp style="font-size: 1.5rem;">Frontend</samp>
   <br>
   <br>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -64,7 +64,7 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff">
   <br /><br />
 
-  <samp>[Hobby] - Game Development</samp>
+  <samp style="font-size: 1.5rem;">[Hobby] - Game Development</samp>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine">
@@ -81,7 +81,7 @@ I am Michael Paonam, an IT professional with 9+ years of industry experience. I 
   <a href="mailto:mazdaswift@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><samp>
+<p align="center" style="font-size: 1.5rem;"><samp>
 Check out my repositories below ⬇️  
 </samp></p>
  
