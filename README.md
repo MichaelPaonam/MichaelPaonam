@@ -42,7 +42,7 @@
 
 ## 🤝 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/michael-paonam-23b807a2/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/michael-paonam"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="mailto:mazdaswift@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
